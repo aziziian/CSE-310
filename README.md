@@ -1,4 +1,4 @@
-# CSE-310
+# CSE-310 Solo Project: Ian Azizi
 
 # Project 1: Hash Table Encoder
 
